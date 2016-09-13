@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TestArmada/magellan-mocha-plugin#readme",
   "dependencies": {
+    "cli-color": "^1.1.0",
     "lodash": "^3.10.1",
     "spawn-sync": "^1.0.15"
   },
